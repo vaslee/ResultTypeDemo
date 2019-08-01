@@ -14,6 +14,7 @@
 		905554C222F355B3008C528C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 905554C022F355B3008C528C /* LaunchScreen.storyboard */; };
 		905554CA22F355F0008C528C /* Venue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 905554C922F355F0008C528C /* Venue.swift */; };
 		905554CD22F35609008C528C /* YelpAPIClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 905554CC22F35609008C528C /* YelpAPIClient.swift */; };
+		905554CF22F356BC008C528C /* SecretKeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = 905554CE22F356BC008C528C /* SecretKeys.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		905554C322F355B3008C528C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		905554C922F355F0008C528C /* Venue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Venue.swift; sourceTree = "<group>"; };
 		905554CC22F35609008C528C /* YelpAPIClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YelpAPIClient.swift; sourceTree = "<group>"; };
+		905554CE22F356BC008C528C /* SecretKeys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecretKeys.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				905554B722F355B2008C528C /* AppDelegate.swift */,
 				905554B922F355B2008C528C /* ViewController.swift */,
 				905554BB22F355B2008C528C /* Main.storyboard */,
+				905554CE22F356BC008C528C /* SecretKeys.swift */,
 				905554CC22F35609008C528C /* YelpAPIClient.swift */,
 				905554C922F355F0008C528C /* Venue.swift */,
 				905554BE22F355B3008C528C /* Assets.xcassets */,
@@ -145,6 +148,7 @@
 				905554CD22F35609008C528C /* YelpAPIClient.swift in Sources */,
 				905554CA22F355F0008C528C /* Venue.swift in Sources */,
 				905554B822F355B2008C528C /* AppDelegate.swift in Sources */,
+				905554CF22F356BC008C528C /* SecretKeys.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
